@@ -1,0 +1,24 @@
+﻿File Creation Time UTC,3/20/2021 15:45,,,,,,,,,,,,,,,
+SW Name,iID®DataCaptureSoftware,,,,,,,,,,,,,,,
+SW Version,v01.06,,,,,,,,,,,,,,,
+SW BuildDate,11/28/2019,,,,,,,,,,,,,,,
+SW StartTime,3/7/2021 19:53,,,,,,,,,,,,,,,
+Lib Version,v1.6.1,,,,,,,,,,,,,,UID,Renamed
+Company,Micro-Sensys GmbH,,,,,,,,,,,,,,25SQCMICSBBD20F0037E4,Tag1
+OS Version,v10.0.17763.865,,,,,,,,,,,,,,25SQCMICSBB192B003825,Tag2
+,,,,,,,,,,,,,,,25SQCMICSBB5C9400383B,Tag3
+,,,,,,,,,,,,,,,25SQCMICSBB4607003835,Tag4
+Settings,,,,,,,,,,,,,,,25SQCMICSBB540A0037E8,Tag5
+,Scan mode,MPC,,,,,,,,,,,,,25SQCMICSBBA30900382A,Tag6
+,,DataGetDelay_Seconds,15,,,,,,,,,,,,25SQCMICSBBC0BA00382D,Tag7
+,,,,,,,,,,,,,,,25SQCMICSBB0B9E0037EE,Tag8
+Found Hardware,,,,,,,,,,,,,,,25SQCMICSBBE56A003832,Tag9
+,Address,ReaderID,HW-Info,FW-Info,Num-Antennas,,,,,,,,,,25SQCMICSBB9BEC003810,Tag10
+,0x01,25SQCMICSCB30E12,,,,,,,,,,,,,25SQCMICSBBFC2500383A,Tag11
+,0x10,200192,D0.22,98.26.01,2,,,,,,,,,,25SQCMICSBB4A5B0037FF,Tag12
+,0x11,200193,D0.22,98.26.01,2,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Timestamp UTC,HexAddress,ReaderID,UID,Collection,DataType,FirstTimeFound,LastTimeFound,NumFound,Direction,Ant1,Ant2,,,,,
+39:01.1,11,200193,Tag10,,DPC,38:56.8,38:57.7,4,Arriving,x,x,,,,,
+54:49.4,11,200193,Tag10,,DPC,54:46.6,54:48.4,4,Departing,x,x,,,,,

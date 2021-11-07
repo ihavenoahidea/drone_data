@@ -1,0 +1,33 @@
+﻿File Creation Time UTC,3/31/2021 00:08,,,,,,,,,,,,,,,
+SW Name,iID®DataCaptureSoftware,,,,,,,,,,,,,,,
+SW Version,v01.06,,,,,,,,,,,,,,UID,TAG
+SW BuildDate,11/28/2019,,,,,,,,,,,,,,25SQCMICSBB8732003851,3_31_tag1
+SW StartTime,3/7/2021 19:53,,,,,,,,,,,,,,25SQCMICSBBDCDC003878,3_31_tag2
+Lib Version,v1.6.1,,,,,,,,,,,,,,25SQCMICSBBBCB3003879,3_31_tag3
+Company,Micro-Sensys GmbH,,,,,,,,,,,,,,25SQCMICSBBC53F00388F,3_31_tag4
+OS Version,v10.0.17763.865,,,,,,,,,,,,,,25SQCMICSBB404A00387C,3_31_tag5
+,,,,,,,,,,,,,,,25SQCMICSBBE32700387D,3_31_tag6
+,,,,,,,,,,,,,,,25SQCMICSBB9E7D00385B,3_31_tag7
+Settings,,,,,,,,,,,,,,,25SQCMICSBB809400387A,3_31_tag8
+,Scan mode,MPC,,,,,,,,,,,,,25SQCMICSBB202500387B,3_31_tag9
+,,DataGetDelay_Seconds,15,,,,,,,,,,,,25SQCMICSBB5F4800383F,3_31_tag10
+,,,,,,,,,,,,,,,,
+Found Hardware,,,,,,,,,,,,,,,,
+,Address,ReaderID,HW-Info,FW-Info,Num-Antennas,,,,,,,,,,,
+,0x01,25SQCMICSCB30E12,,,,,,,,,,,,,,
+,0x10,200192,D0.22,98.26.01,2,,,,,,,,,,,
+,0x11,200193,D0.22,98.26.01,2,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Timestamp UTC,HexAddress,ReaderID,UID,Collection,DataType,FirstTimeFound,LastTimeFound,NumFound,Direction,Ant1,Ant2,,,,,
+08:07.9,10,200192,3_31_tag1,,DPC,08:01.3,08:03.1,2,Unknown,,x,,,,,
+09:23.3,10,200192,3_31_tag2,,DPC,09:17.4,09:18.0,3,Unknown,,x,,,,,
+10:23.5,10,200192,3_31_tag3,,DPC,10:11.7,10:21.6,4,Arriving,x,x,,,,,
+11:23.8,10,200192,3_31_tag4,,DPC,11:15.8,11:23.0,4,Arriving,x,x,,,,,
+12:08.9,10,200192,3_31_tag5,,DPC,12:07.3,12:08.5,2,Unknown,,x,,,,,
+13:09.2,10,200192,3_31_tag6,,DPC,13:06.0,13:06.9,3,Arriving,x,x,,,,,
+14:24.5,10,200192,3_31_tag6,,DPC,14:10.5,14:16.2,2,Departing,x,x,,,,,
+16:09.8,10,200192,3_31_tag7,,DPC,16:00.7,16:09.7,5,Arriving,x,x,,,,,
+16:55.0,10,200192,3_31_tag8,,DPC,16:48.9,16:49.5,3,Arriving,x,x,,,,,
+18:25.4,10,200192,3_31_tag9,,DPC,18:17.7,18:18.6,3,Arriving,x,x,,,,,
+19:25.6,10,200192,3_31_tag10,,DPC,19:11.7,19:20.1,7,Arriving,x,x,,,,,

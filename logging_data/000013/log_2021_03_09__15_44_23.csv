@@ -1,0 +1,38 @@
+﻿File Creation Time UTC,3/9/2021 15:44,,,,,,,,,,
+SW Name,iID®DataCaptureSoftware,,,,,,,,,,
+SW Version,v01.06,,,,,,,,,,
+SW BuildDate,11/28/2019,,,,,,,,,,
+SW StartTime,3/7/2021 19:53,,,,,,,,,,
+Lib Version,v1.6.1,,,,,,,,,,
+Company,Micro-Sensys GmbH,,,,,,,,,,
+OS Version,v10.0.17763.865,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Settings,,,,,,,,,,,
+,Scan mode,MPC,,,,,,,,,
+,,DataGetDelay_Seconds,15,,,,,,,,
+,,,,,,,,,,,
+Found Hardware,,,,,,,,,,,
+,Address,ReaderID,HW-Info,FW-Info,Num-Antennas,,,,,,
+,0x01,25SQCMICSCB30E12,,,,,,,,,
+,0x10,200192,D0.22,98.26.01,2,,,,,,
+,0x11,200193,D0.22,98.26.01,2,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Timestamp UTC,HexAddress,ReaderID,UID,Collection,DataType,FirstTimeFound,LastTimeFound,NumFound,Direction,Ant1,Ant2
+05:52.4,11,200193,25SQCMICSBB9BEC003810,,DPC,05:44.7,05:50.7,10,Arriving,x,x
+47:15.6,11,200193,25SQCMICSBB9BEC003810,,DPC,47:06.5,47:06.8,2,Unknown,,x
+26:53.7,11,200193,25SQCMICSBB9BEC003810,,DPC,26:39.2,26:44.6,8,Arriving,x,x
+30:06.9,11,200193,25SQCMICSBB9BEC003810,,DPC,29:53.3,30:06.2,5,Departing,x,x
+30:22.0,11,200193,25SQCMICSBB9BEC003810,,DPC,30:11.3,30:13.1,6,Unknown,,x
+30:37.0,11,200193,25SQCMICSBB9BEC003810,,DPC,30:28.5,30:28.8,2,Arriving,x,x
+20:47.9,11,200193,25SQCMICSBB9BEC003810,,DPC,20:36.9,20:38.7,7,Arriving,x,x
+28:31.5,11,200193,25SQCMICSBB9BEC003810,,DPC,28:22.7,28:22.7,1,Unknown,,x
+36:03.3,11,200193,25SQCMICSBB9BEC003810,,DPC,35:49.2,35:50.4,3,Departing,x,x
+29:14.5,11,200193,25SQCMICSBB9BEC003810,,DPC,29:14.2,29:14.5,2,Departing,x,x
+29:29.5,11,200193,25SQCMICSBB9BEC003810,,DPC,29:14.7,29:15.6,4,Unknown,,x
+58:50.8,11,200193,25SQCMICSBB9BEC003810,,DPC,58:47.7,58:49.2,6,Departing,x,x
+43:00.5,11,200193,25SQCMICSBB9BEC003810,,DPC,42:57.4,43:00.4,11,Departing,x,x
+43:15.6,11,200193,25SQCMICSBB9BEC003810,,DPC,43:00.7,43:02.8,8,Arriving,x,x
+35:48.4,11,200193,25SQCMICSBB9BEC003810,,DPC,35:38.7,35:39.9,4,Departing,x,x
+08:55.2,11,200193,25SQCMICSBB9BEC003810,,DPC,08:45.0,08:50.1,14,Arriving,x,x
